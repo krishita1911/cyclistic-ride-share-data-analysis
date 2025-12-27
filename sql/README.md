@@ -1,4 +1,6 @@
-This folder contains SQL queries used for data cleaning, aggregation and analysis.
+This folder contains SQL queries used for data cleaning, aggregation,
+and analysis.
 
-All queries were executed using Google BigQuery.
-Both SQL Files and Screenshots of query execution are included for reference.
+All SQL queries were executed using Google BigQuery.
+Query files document the analysis logic, while execution screenshots
+are included to demonstrate successful query runs and outputs.
