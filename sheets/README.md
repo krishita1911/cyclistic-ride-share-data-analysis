@@ -1,1 +1,3 @@
-This folder contains Google Sheets pivot tables and charts built from SQL query results, used to examine weekly usage patterns, monthly trends and user behavior differences.
+This folder contains Google Sheets outputs created from SQL query results.
+
+Pivot tables were used to analyze weekly and monthly usage patterns,and supporting charts were created to explore trends and behavioral differences between casual riders and annual members.
