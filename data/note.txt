@@ -1,3 +1,7 @@
-The dataset used in this case study was provided as part of a Google Analytics Course.
-Cyclistic is a fictional company.
-The dataset is not included here due to usage restrictions.
+This folder contains notes related to the dataset used in this case study.
+
+The ride-share data was provided as part of a Google Analytics course.
+Cyclistic is a fictional company, and the dataset is used for educational
+and analytical purposes only.
+
+Raw data files are not included due to usage restrictions.
